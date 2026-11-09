@@ -128,8 +128,7 @@
   .botao:hover {
     background-color: var(--caixa-dagua);
   }
-  
-  /* Seções */
+
   .secao {
     margin-top: 96px;
   }
@@ -214,7 +213,6 @@
     margin-block: 8px 12px;
   }
   
-  /* Rodapé */
   .rodape {
     margin-top: 120px;
     background-color: var(--tinta);
